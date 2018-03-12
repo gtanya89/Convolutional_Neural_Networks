@@ -1,2 +1,2 @@
-# Handwriting Recognition on MNIST Dataset using Convolutional Neural Networks
+## Handwriting Recognition on MNIST Dataset using Convolutional Neural Networks
 
