@@ -2,7 +2,7 @@
 
 Model Architecture is as follows:
 
-Input image size 28 * 28 
+Input image size 28 * 28.
 
 1. Layer 1
     1. Convolutional Layer 5 * 5 * 1 32 filters; padding=SAME
